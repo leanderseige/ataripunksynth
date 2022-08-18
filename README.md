@@ -17,6 +17,8 @@ This is a simple synthesizer based on the popular **Atari Punk Console** design.
 
 ## How does it perform?
 
+I intend to produce a better video later. But this one should give a good first impression. Some other music devices join in the second half of the video.
+
 https://youtu.be/FOUyAVAhYBA
 
 [![Watch the video](images/videostill.jpeg)](https://youtu.be/FOUyAVAhYBA)
