@@ -13,7 +13,7 @@ This is a simple synthesizer based on the popular **Atari Punk Console** design.
 
 https://youtu.be/FOUyAVAhYBA
 
-[![Watch the video](images/videostill.jpg)](https://youtu.be/FOUyAVAhYBA)
+[![Watch the video](images/videostill.jpeg)](https://youtu.be/FOUyAVAhYBA)
 
 
 ## Sources
