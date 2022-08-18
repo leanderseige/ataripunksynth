@@ -1,6 +1,6 @@
 # Atari Punk Synth
 
-This is a simple synthesizer based on the popular **Atari Punk Console** design. In addition it features an
+This is a simple synthesizer based on the popular **Atari Punk Console** design. In addition it features:
 * 8-Step Sequencer
 * Echo/Reverb Unit
 * Sync In incl. Frequency Divider
@@ -8,6 +8,10 @@ This is a simple synthesizer based on the popular **Atari Punk Console** design.
 * Manual Clock
 * Internal Speaker
 * Line Out
+
+## How does it perform?
+
+https://youtu.be/FOUyAVAhYBA
 
 ## Sources
 
