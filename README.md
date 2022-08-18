@@ -9,12 +9,17 @@ This is a simple synthesizer based on the popular **Atari Punk Console** design.
 * Internal Speaker
 * Line Out
 
+## Rough from the inside and outside.
+
+...check out the [Gallery](GALLERY.md).
+
+![Photo 1](images/photo1.jpg)
+
 ## How does it perform?
 
 https://youtu.be/FOUyAVAhYBA
 
 [![Watch the video](images/videostill.jpeg)](https://youtu.be/FOUyAVAhYBA)
-
 
 ## Sources
 
