@@ -13,6 +13,9 @@ This is a simple synthesizer based on the popular **Atari Punk Console** design.
 
 https://youtu.be/FOUyAVAhYBA
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/FOUyAVAhYBA)
+
+
 ## Sources
 
 I thank all the great people out there creating fancy circuits and sharing them with the world. Here are the most important sources I used:
