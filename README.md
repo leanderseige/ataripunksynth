@@ -28,14 +28,14 @@ Switch Debounce, using a 555: http://www.555-timer-circuits.com/switch-debounce.
 
 Frequency Divider, using a 4017: https://www.electronicshub.org/frequency-divider-circuit/
 
-## Circuit
+## Circuit -- WARNING!
 
 **WARNING!**
 
 I tried to create one single circuit diagram putting it all together. However I am not 100% sure that everything is correct. Please take it as an inspiration, think and think twice and be skeptical about everything! This circuit diagram may contain errors. If you're going to build your own Atari Punk Synth, recheck everything and if you encounter any mistakes please let me know. Building circuits following this design is on your own risk!
 
-## Kown Problems
+![Circuit Diagram](circuit/circuitdiagram.png)
+
+## Known Problems
 
 * The capacitor in Switch Debounce seems to be too small. Switch still bounces.
-
-![Circuit Diagram](circuit/circuitdiagram.png)
