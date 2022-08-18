@@ -4,7 +4,7 @@ This is a simple synthesizer based on the popular **Atari Punk Console** design.
 * 8-Step Sequencer
 * Echo/Reverb unit
 * Sync-In (incl. frequency divider) for other analog synthesizers
-* Sync-Out (repeating Sync In only at this time)
+* Sync-Out (repeating Sync-In only at this time)
 * Manual Clock
 * Internal Speaker
 * Line-Out
