@@ -32,10 +32,14 @@ Frequency Divider, using a 4017: https://www.electronicshub.org/frequency-divide
 
 **WARNING!**
 
-I tried to create one single circuit diagram putting it all together. However I am not 100% sure that everything is correct. Please take it as an inspiration, think and think twice and be skeptical about everything! This circuit diagram may contain errors. If you're going to build your own Atari Punk Synth, recheck everything and if you encounter any mistakes please let me know. Building circuits following this design is on your own risk!
+I tried to create one single circuit diagram putting it all together. I tried to write down everything quite carefully. However I am not 100% sure that everything is correct. Please take it as an inspiration, think and think twice and be skeptical! This circuit diagram may contain errors. If you're going to build your own Atari Punk Synth, recheck everything and if you encounter any mistakes please let me know. Building circuits following this design is on your own risk!
 
 ![Circuit Diagram](circuit/circuitdiagram.png)
 
-## Known Problems
+### Potentiometer Modules
+
+The potentiometer module was drawn only for step 1. Just replicate seven times for each step.
+
+### Known Problems
 
 * The capacitor in Switch Debounce seems to be too small. Switch still bounces.
