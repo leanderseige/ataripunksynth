@@ -13,7 +13,7 @@ This is a simple synthesizer based on the popular **Atari Punk Console** design.
 
 ...check out the [Gallery](GALLERY.md).
 
-![Photo 1](images/photo1.jpg)
+![Photo 1](images/photo0.jpg)
 
 ## How does it perform?
 
