@@ -23,7 +23,7 @@ https://youtu.be/FOUyAVAhYBA
 
 ## Sources
 
-I thank all the great people out there creating fancy circuits and sharing them with the world. Here are the most important sources I used:
+I thank all the great people out there creating fantastic circuits and sharing them with the world. Here are the most important sources I used:
 
 Atari Punk Console with 8-Step Sequencer using two 555 and one 4017 can be found here http://www.owyheesound.com/sequencer.php or here https://electro-music.com/forum/topic-37770-125.html This circuit diagram circulates in different versions. Be sure to pick the "November 4th, 2009" version.
 
