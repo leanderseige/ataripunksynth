@@ -50,3 +50,7 @@ The potentiometer module was drawn only for step 1. Just replicate seven times f
 ### Known Problems
 
 * The capacitor in Switch Debounce seems to be too small. Switch still bounces.
+
+## 3D Models
+
+I added two alternative speaker grilles for the Visaton FR7 speaker that I used.
