@@ -41,6 +41,10 @@ Frequency Divider, using a CD4017: https://www.electronicshub.org/frequency-divi
 
 I tried to create one single circuit diagram putting it all together. I tried to write down everything quite carefully. However I am not 100% sure that everything is correct. Please take it as an inspiration, think and think twice and be skeptical! This circuit diagram may contain errors. If you're going to build your own Atari Punk Synth, recheck everything and if you encounter any mistakes please let me know. Building circuits following this design is on your own risk!
 
+Notes:
+* The Volume potentiomenter is logarithmic (Type C)
+* The 555s are CMOS 
+
 ![Circuit Diagram](circuit/circuitdiagram.png)
 
 ### Potentiometer Modules
