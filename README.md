@@ -49,7 +49,7 @@ Notes:
 
 ### Potentiometer Modules
 
-The potentiometer module was drawn only for step 1. Just replicate seven times for each step.
+The potentiometer module was drawn only for step 1. Just replicate seven it times, one module for each step.
 
 ### Known Problems
 
