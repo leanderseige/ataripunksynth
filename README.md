@@ -1,7 +1,5 @@
 # Atari Punk Synth
 
-**UPDATE: I found an error in the circuit diagram, will update soon!**
-
 This is a simple synthesizer based on the popular **Atari Punk Console** design. In addition it features:
 * 8-Step Sequencer
 * Echo/Reverb unit
