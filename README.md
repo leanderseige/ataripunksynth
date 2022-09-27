@@ -47,6 +47,8 @@ Notes:
 
 ![Circuit Diagram](circuit/circuitdiagram.png)
 
+I am not really an electronics expert, so if you find mistakes or could suggest improvements I would be happy to hear from you.
+
 ### Potentiometer Modules
 
 The potentiometer module was drawn only for step 1. Just replicate seven it times, one module for each step.
